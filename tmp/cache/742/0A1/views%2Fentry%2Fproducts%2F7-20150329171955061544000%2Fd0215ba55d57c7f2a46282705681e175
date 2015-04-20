@@ -1,0 +1,10 @@
+o: ActiveSupport::Cache::Entry:@valueI"			<div class= "entry">
+					<img alt="Playboy" src="/assets/playboy.jpeg" />
+					<h3>Playboy n.1 </h3>
+					<p>Primo numero della piu' famosa rivista erotica al mondo</p>
+					<div class="price_line">
+						<span class= "price">$756.00</span>
+						<form action="/line_items?product_id=7" class="button_to" data-remote="true" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="CIQMGs3e69VtqRXxWxM1If5HbtjoRVn4Do0hBFOeEnk=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1429090224.089184:@expires_in0

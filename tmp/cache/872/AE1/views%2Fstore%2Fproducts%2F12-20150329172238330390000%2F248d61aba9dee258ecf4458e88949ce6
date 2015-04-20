@@ -1,0 +1,29 @@
+o: ActiveSupport::Cache::Entry:@valueI"M			<div class= "entry">
+					<img alt="Playboy" src="/assets/playboy.jpeg" />
+					<h3>Playboy n.1 </h3>
+					<p>Primo numero della piu' famosa rivista erotica al mondo</p>
+					<div class="price_line">
+						<span class= "price">$756.00</span>
+						<form action="/line_items?product_id=7" class="button_to" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="jfy4+w5DUUYxtkn0Y4GkxAJLUU5nP9g2KPdR5Wj8Eyk=" /></div></form>		
+				</div>
+			</div>
+			<div class= "entry">
+					<img alt="Libro2" src="/assets/libro2.jpg" />
+					<h3>Retrogaming</h3>
+					<p>Everythings about the good ancient games.
+Buy this to learn what we lost!</p>
+					<div class="price_line">
+						<span class= "price">$65.50</span>
+						<form action="/line_items?product_id=12" class="button_to" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="jfy4+w5DUUYxtkn0Y4GkxAJLUU5nP9g2KPdR5Wj8Eyk=" /></div></form>		
+				</div>
+			</div>
+			<div class= "entry">
+					<img alt="Libro1" src="/assets/libro1.jpg" />
+					<h3>Story of Videogames</h3>
+					<p>Good book about the history of the Videogames. Learn everythings about games from the ancient 1970 years to 2000 years!</p>
+					<div class="price_line">
+						<span class= "price">$69.00</span>
+						<form action="/line_items?product_id=10" class="button_to" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="jfy4+w5DUUYxtkn0Y4GkxAJLUU5nP9g2KPdR5Wj8Eyk=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1428687242.977034:@expires_in0

@@ -1,0 +1,14 @@
+<h1>Notifica di ordine Pasticceria Siciliana:</h1>
+
+<p>Gentile <%= @order.name %>,<br>
+Grazie per avere acquistato da Pasticceria Siciliana.
+Hai ordinato i seguenti prodotti:
+</p>
+<table>
+<tr><th colspan= "2">Qty</th><th>Prezzo</th></tr>
+<%= render :partial => 'line_items/line_item_simple', :collection => @order.line_items, :as => :line_item %> 
+</table>
+
+<p>Le sara' recapitata una successiva email quando processeremo il suo ordine.
+Grazie.
+</p> 

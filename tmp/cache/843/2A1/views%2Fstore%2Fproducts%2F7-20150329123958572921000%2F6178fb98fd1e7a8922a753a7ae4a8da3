@@ -1,0 +1,19 @@
+o: ActiveSupport::Cache::Entry:@valueI"ª			<div class= "entry">
+					<img alt="Libro" src="/assets/libro.jpg" />
+					<h3>Prog Ruby</h3>
+					<p> dfdddf </p> 
+					<div class="price_line">
+						<span class= "price">$34.00</span>
+						<form action="/line_items?product_id=2" class="button_to" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="Kdo7E1926zTpaeEzZEH8c4iOg1JS6CEY5I7DR0bHdhA=" /></div></form>		
+				</div>
+			</div>
+			<div class= "entry">
+					<img alt="Playboy" src="/assets/playboy.jpeg" />
+					<h3>playboy</h3>
+					numero uno della famosa rivista di hefner
+					<div class="price_line">
+						<span class= "price">$40.00</span>
+						<form action="/line_items?product_id=7" class="button_to" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="Kdo7E1926zTpaeEzZEH8c4iOg1JS6CEY5I7DR0bHdhA=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1427632882.6042528:@expires_in0

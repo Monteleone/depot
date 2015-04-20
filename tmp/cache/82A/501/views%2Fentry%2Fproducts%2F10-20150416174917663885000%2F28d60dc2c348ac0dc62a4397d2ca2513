@@ -1,0 +1,10 @@
+o: ActiveSupport::Cache::Entry:@valueI"			<div class= "entry">
+					<img alt="Libro1" src="/assets/libro1.jpg" />
+					<h3>Cannolo</h3>
+					<p>Cannoli siciliani con granella di pistacchi, canditi e gocce di cioccolato</p>
+					<div class="price_line">
+						<span class= "price">$5.00</span>
+						<form action="/line_items?product_id=10" class="button_to" data-remote="true" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="FTYMZer5XW2vsYDMrPuEGy7Zh15ED634DntdIiE9/Mg=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1429206821.8893209:@expires_in0

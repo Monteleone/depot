@@ -1,0 +1,10 @@
+o: ActiveSupport::Cache::Entry:@valueI"�			<div class= "entry">
+					<img alt="Martorana" src="/assets/martorana.jpg" />
+					<h3>Frutta di Martorana</h3>
+					<p>La frutta di Martorana è un tipico dolce siciliano (in particolare palermitano, messinese[1], agrigentino e trapanese). È un dolce famoso nel mondo perché la sua preparazione e confezionamento prevede, nella forma e nell'aspetto alla fine del processo di preparazione, la perfetta imitazione o riproduzione di frutti e talvolta ortaggi o pesci. Internamente è simile al marzapane ma notevolmente più dolce e saporito.</p>
+					<div class="price_line">
+						<span class= "price">$6.00</span>
+						<form action="/line_items?product_id=7" class="button_to" data-remote="true" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="FTYMZer5XW2vsYDMrPuEGy7Zh15ED634DntdIiE9/Mg=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1429206811.357527:@expires_in0

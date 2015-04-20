@@ -1,0 +1,28 @@
+o: ActiveSupport::Cache::Entry:@valueI"			<div class= "entry">
+					<img alt="Libro1" src="/assets/libro1.jpg" />
+					<h3>Cannolo</h3>
+					<p>Cannoli siciliani con granella di pistacchi, canditi e gocce di cioccolato</p>
+					<div class="price_line">
+						<span class= "price">$5.00</span>
+						<form action="/line_items?product_id=10" class="button_to" data-remote="true" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="FTYMZer5XW2vsYDMrPuEGy7Zh15ED634DntdIiE9/Mg=" /></div></form>		
+				</div>
+			</div>
+			<div class= "entry">
+					<img alt="Libro2" src="/assets/libro2.jpg" />
+					<h3>Cassata</h3>
+					<p>La Cassata e' una torta tradizionale siciliana a base di ricotta zuccherata, pan di Spagna, pasta reale, frutta candita e glassa di zucchero.</p>
+					<div class="price_line">
+						<span class= "price">$10.00</span>
+						<form action="/line_items?product_id=12" class="button_to" data-remote="true" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="FTYMZer5XW2vsYDMrPuEGy7Zh15ED634DntdIiE9/Mg=" /></div></form>		
+				</div>
+			</div>
+			<div class= "entry">
+					<img alt="Martorana" src="/assets/martorana.jpg" />
+					<h3>Frutta di Martorana</h3>
+					<p>La frutta di Martorana è un tipico dolce siciliano (in particolare palermitano, messinese[1], agrigentino e trapanese). È un dolce famoso nel mondo perché la sua preparazione e confezionamento prevede, nella forma e nell'aspetto alla fine del processo di preparazione, la perfetta imitazione o riproduzione di frutti e talvolta ortaggi o pesci. Internamente è simile al marzapane ma notevolmente più dolce e saporito.</p>
+					<div class="price_line">
+						<span class= "price">$6.00</span>
+						<form action="/line_items?product_id=7" class="button_to" data-remote="true" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="FTYMZer5XW2vsYDMrPuEGy7Zh15ED634DntdIiE9/Mg=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1429206821.904948:@expires_in0

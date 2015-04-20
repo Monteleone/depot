@@ -1,0 +1,10 @@
+o: ActiveSupport::Cache::Entry:@valueI"_			<div class= "entry">
+					<img alt="Libro2" src="/assets/libro2.jpg" />
+					<h3>Cassata</h3>
+					<p>La Cassata e' una torta tradizionale siciliana a base di ricotta zuccherata, pan di Spagna, pasta reale, frutta candita e glassa di zucchero.</p>
+					<div class="price_line">
+						<span class= "price">$10.00</span>
+						<form action="/line_items?product_id=12" class="button_to" data-remote="true" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="FTYMZer5XW2vsYDMrPuEGy7Zh15ED634DntdIiE9/Mg=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1429206811.357527:@expires_in0

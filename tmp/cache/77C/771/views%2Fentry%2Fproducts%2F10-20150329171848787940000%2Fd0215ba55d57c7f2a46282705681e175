@@ -1,0 +1,10 @@
+o: ActiveSupport::Cache::Entry:@valueI"U			<div class= "entry">
+					<img alt="Libro1" src="/assets/libro1.jpg" />
+					<h3>Story of Videogames</h3>
+					<p>Good book about the history of the Videogames. Learn everythings about games from the ancient 1970 years to 2000 years!</p>
+					<div class="price_line">
+						<span class= "price">$69.00</span>
+						<form action="/line_items?product_id=10" class="button_to" data-remote="true" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="CIQMGs3e69VtqRXxWxM1If5HbtjoRVn4Do0hBFOeEnk=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1429090224.121208:@expires_in0

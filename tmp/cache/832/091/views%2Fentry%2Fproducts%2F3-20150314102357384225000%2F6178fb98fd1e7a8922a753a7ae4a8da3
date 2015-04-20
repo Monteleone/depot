@@ -1,0 +1,10 @@
+o: ActiveSupport::Cache::Entry:@valueI"º			<div class= "entry">
+					<img alt="Www.rrr" src="/images/www.rrr.it" />
+					<h3>soft</h3>
+					ahahah
+					<div class="price_line">
+						<span class= "price">$2.00</span>
+						<form action="/line_items?product_id=3" class="button_to" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="Kdo7E1926zTpaeEzZEH8c4iOg1JS6CEY5I7DR0bHdhA=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1427617927.204986:@expires_in0

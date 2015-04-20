@@ -1,0 +1,19 @@
+o: ActiveSupport::Cache::Entry:@valueI"ª			<div class= "entry">
+					<img alt="Libro" src="/assets/libro.png" />
+					<h3>CaffÃ¨ for Dummies</h3>
+					Bevete!
+					<div class="price_line">
+						<span class= "price">$23.00</span>
+						<form action="/line_items?product_id=9" class="button_to" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="BbjZfSHsxOegVxapPiVP1BXYoTocdDDNBleFjnXwn1E=" /></div></form>		
+				</div>
+			</div>
+			<div class= "entry">
+					<img alt="Playboy" src="/assets/playboy.jpeg" />
+					<h3>playboy</h3>
+					numero uno della famosa rivista di hefner
+					<div class="price_line">
+						<span class= "price">$40.00</span>
+						<form action="/line_items?product_id=7" class="button_to" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="Kdo7E1926zTpaeEzZEH8c4iOg1JS6CEY5I7DR0bHdhA=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1427649000.709213:@expires_in0

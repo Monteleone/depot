@@ -1,0 +1,10 @@
+o: ActiveSupport::Cache::Entry:@valueI"¾			<div class= "entry">
+					<img alt="Libro" src="/images/libro.jpg" />
+					<h3>Prog Ruby</h3>
+					dfdddf 
+					<div class="price_line">
+						<span class= "price">$34.00</span>
+						<form action="/line_items?product_id=8" class="button_to" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="BbjZfSHsxOegVxapPiVP1BXYoTocdDDNBleFjnXwn1E=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1427647867.60439:@expires_in0

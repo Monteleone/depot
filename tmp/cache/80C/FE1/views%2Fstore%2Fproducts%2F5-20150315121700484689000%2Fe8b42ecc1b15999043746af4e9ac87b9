@@ -1,0 +1,33 @@
+o: ActiveSupport::Cache::Entry:@valueI"$			<div class= "entry">
+					<img alt="Libro" src="/assets/libro.jpg" />
+					<h3>Prog Ruby</h3>
+					<p> dfdddf </p> 
+					<div class="price_line">
+						<span class= "price">$34.00</span>		
+				</div>
+			</div>
+			<div class= "entry">
+					<img alt="Ddd" src="/images/ddd" />
+					<h3>ddsd</h3>
+					sdsds
+					<div class="price_line">
+						<span class= "price">$666.00</span>		
+				</div>
+			</div>
+			<div class= "entry">
+					<img alt="Fdfdfdf" src="/images/fdfdfdf" />
+					<h3>fdfdf</h3>
+					dfdfdfd
+					<div class="price_line">
+						<span class= "price">$545.00</span>		
+				</div>
+			</div>
+			<div class= "entry">
+					<img alt="Www.rrr" src="/images/www.rrr.it" />
+					<h3>soft</h3>
+					ahahah
+					<div class="price_line">
+						<span class= "price">$2.00</span>		
+				</div>
+			</div>
+:ET:@created_atf1426421966.997869:@expires_in0

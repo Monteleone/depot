@@ -1,0 +1,11 @@
+o: ActiveSupport::Cache::Entry:@valueI" 			<div class= "entry">
+					<img alt="Libro2" src="/assets/libro2.jpg" />
+					<h3>Retrogaming</h3>
+					<p>Everythings about the good ancient games.
+Buy this to learn what we lost!</p>
+					<div class="price_line">
+						<span class= "price">$65.50</span>
+						<form action="/line_items?product_id=12" class="button_to" data-remote="true" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="CIQMGs3e69VtqRXxWxM1If5HbtjoRVn4Do0hBFOeEnk=" /></div></form>		
+				</div>
+			</div>
+:ET:@created_atf1429090224.1041942:@expires_in0
